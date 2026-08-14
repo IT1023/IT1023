@@ -4,8 +4,8 @@
     </a>
     <br/>
     <br/> 
-    <a href="https://github.com/mohammedtahahalim">
-        <img src="https://github-stats-alpha.vercel.app/api?username=mohammedtahahalim&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <a href="https://github.com/it1023">
+        <img src="https://github-stats-alpha.vercel.app/api?username=it1023&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
     </a>
 </p>
 

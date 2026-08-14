@@ -19,8 +19,8 @@ teams. Improved system performance and reliability through API optimization, str
 scalable frontend architecture.
 
 <p align="center">
-  <a href="https://github.com/mohammedtahahalim">
-    <img src="https://komarev.com/ghpvc/?username=mohammedtahahalim&color=blue&style=flat" />
+  <a href="https://github.com/it1023">
+    <img src="https://komarev.com/ghpvc/?username=it1023&color=blue&style=flat" />
   </a>
 </p>
 

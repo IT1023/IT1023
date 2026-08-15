@@ -4,19 +4,7 @@
     </a>
     <br/>
     <br/> 
-    <a href="https://github.com/it1023">
-        <img src="https://github-stats-alpha.vercel.app/api?username=it1023&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-    </a>
 </p>
-
-<summary>Summary</summary>
-<br>
-
-Full-Stack Engineer with 5+ years of experience building production web applications using React, TypeScript, and
-Node.js. Specialized in authentication systems, RBAC architectures, and scalable frontend state design. Experienced
-delivering end-to-end features across retail, research, and R&D environments while collaborating with international
-teams. Improved system performance and reliability through API optimization, structured testing practices, and
-scalable frontend architecture.
 
 <p align="center">
   <a href="https://github.com/it1023">

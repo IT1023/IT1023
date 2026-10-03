@@ -5,11 +5,3 @@
     <br/>
     <br/> 
 </p>
-
-<p align="center">
-  <a href="https://github.com/it1023">
-    <img src="https://komarev.com/ghpvc/?username=it1023&color=blue&style=flat" />
-  </a>
-</p>
-
-![](https://hit.yhype.me/github/profile?account_id=221593986)
